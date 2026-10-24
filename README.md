@@ -24,8 +24,6 @@
 
 ---
 
----
-
 ### 🌐 Featured Project | Myskup Portfolio
 
 <div align="center">
@@ -41,7 +39,6 @@
 
 </div>
 
-```html
 <table align="center">
   <tr>
     <td width="50%">
@@ -55,54 +52,13 @@
     <td width="50%" align="center">
       <h4>🛠️ Tecnologias Utilizadas:</h4>
       <p>
-        <img src="[https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)" />
-        <img src="[https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)" />
-        <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)" />
-        <img src="[https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
       </p>
     </td>
   </tr>
 </table>
 
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Szmyskup&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szmyskup&layout=compact&theme=dracula&hide_border=false"/>
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szmyskup&theme=dracula" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dracula" alt="GitHub Streak" />
-</div>
-
----
-
-### 🎨 Custom Setup / Aesthetic
-
-<div align="center">
-  <sub><i>"Building sleek code & high-performance digital experiences."</i></sub>
-</div>
