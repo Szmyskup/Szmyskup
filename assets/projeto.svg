@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Projeto MysKup - myskup.netlify.app">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c084fc"/>
+      <stop offset="0.5" stop-color="#3b1d6e"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="10%" r="70%">
+      <stop offset="0" stop-color="#a855f7" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="btn" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#a855f7" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1000" height="300" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="300" fill="#07020f"/>
+    <rect width="1000" height="300" fill="url(#grid)"/>
+    <rect width="1000" height="300" fill="url(#glow)"/>
+
+    <!-- janela do navegador -->
+    <g>
+      <rect x="40" y="40" width="400" height="220" rx="14" fill="#0d0518" stroke="#3b1d6e" stroke-width="1.5"/>
+      <path d="M40 54a14 14 0 0 1 14-14h372a14 14 0 0 1 14 14v22H40z" fill="#150a2b"/>
+      <circle cx="62" cy="58" r="5" fill="#a855f7"/>
+      <circle cx="80" cy="58" r="5" fill="#ffffff" opacity="0.85"/>
+      <circle cx="98" cy="58" r="5" fill="#4c1d95"/>
+      <rect x="124" y="48" width="296" height="20" rx="10" fill="#07020f" stroke="#2a1450"/>
+      <text x="272" y="62" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" letter-spacing="1" fill="#c4b5fd">myskup.netlify.app</text>
+
+      <!-- conteudo fake do site -->
+      <rect x="60" y="94" width="130" height="10" rx="5" fill="#a855f7" opacity="0.9"/>
+      <rect x="60" y="114" width="250" height="18" rx="6" fill="#ffffff" opacity="0.92"/>
+      <rect x="60" y="140" width="190" height="8" rx="4" fill="#9d7bd8" opacity="0.7"/>
+
+      <rect x="60" y="164" width="108" height="76" rx="10" fill="#150a2b" stroke="#3b1d6e">
+        <animate attributeName="stroke" values="#3b1d6e;#a855f7;#3b1d6e" dur="4s" begin="0s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="186" y="164" width="108" height="76" rx="10" fill="#150a2b" stroke="#3b1d6e">
+        <animate attributeName="stroke" values="#3b1d6e;#a855f7;#3b1d6e" dur="4s" begin="1.3s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="312" y="164" width="108" height="76" rx="10" fill="#150a2b" stroke="#3b1d6e">
+        <animate attributeName="stroke" values="#3b1d6e;#a855f7;#3b1d6e" dur="4s" begin="2.6s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="72" y="176" width="40" height="6" rx="3" fill="#a855f7"/>
+      <rect x="198" y="176" width="40" height="6" rx="3" fill="#a855f7"/>
+      <rect x="324" y="176" width="40" height="6" rx="3" fill="#a855f7"/>
+      <rect x="72" y="192" width="80" height="5" rx="2.5" fill="#6b4aa8"/>
+      <rect x="198" y="192" width="80" height="5" rx="2.5" fill="#6b4aa8"/>
+      <rect x="324" y="192" width="80" height="5" rx="2.5" fill="#6b4aa8"/>
+      <rect x="72" y="204" width="60" height="5" rx="2.5" fill="#4c3580"/>
+      <rect x="198" y="204" width="60" height="5" rx="2.5" fill="#4c3580"/>
+      <rect x="324" y="204" width="60" height="5" rx="2.5" fill="#4c3580"/>
+    </g>
+
+    <!-- texto -->
+    <g>
+      <circle cx="486" cy="68" r="4" fill="#a855f7">
+        <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="500" y="73" font-family="'Courier New', Courier, monospace" font-size="14" letter-spacing="5" fill="#c084fc">PROJETO EM DESTAQUE</text>
+
+      <text x="484" y="140" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="62" font-weight="800" letter-spacing="4" fill="#ffffff">MYSKUP</text>
+
+      <text x="486" y="176" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="17" fill="#ddd0f5">Meu portfólio próprio: landing pages para delivery,</text>
+      <text x="486" y="202" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="17" fill="#ddd0f5">sites interativos e experiências web de alto padrão.</text>
+
+      <rect x="486" y="224" width="236" height="40" rx="10" fill="url(#btn)">
+        <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
+      </rect>
+      <text x="604" y="250" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#ffffff">ACESSAR SITE  →</text>
+      <text x="742" y="250" font-family="'Courier New', Courier, monospace" font-size="14" fill="#9d7bd8">myskup.netlify.app</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="998" height="298" rx="21" fill="none" stroke="url(#edge)" stroke-width="2"/>
+</svg>

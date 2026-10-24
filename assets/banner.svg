@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-label="Szmyskup banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030008"/>
+      <stop offset="1" stop-color="#150a2b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#a855f7" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.55" stop-color="#e9d5ff"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset="0.5" stop-color="#3b1d6e"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#a855f7" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+    <filter id="blur" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <clipPath id="clip">
+      <rect width="1000" height="320" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="320" fill="url(#bg)"/>
+    <rect width="1000" height="320" fill="url(#grid)"/>
+
+    <ellipse cx="500" cy="165" rx="430" ry="125" fill="url(#glow)">
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="6s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- linha de varredura -->
+    <rect x="0" y="-4" width="1000" height="2" fill="#c084fc" opacity="0.30">
+      <animate attributeName="y" from="-4" to="324" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- titulo -->
+    <text x="500" y="168" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="88" font-weight="800" letter-spacing="14" fill="#a855f7" filter="url(#blur)" opacity="0.8">SZMYSKUP
+      <animate attributeName="opacity" values="0.5;0.95;0.5" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="500" y="168" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="88" font-weight="800" letter-spacing="14" fill="url(#title)">SZMYSKUP</text>
+
+    <!-- subtitulo -->
+    <text x="500" y="222" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="20" letter-spacing="9" fill="#c4b5fd">DESIGN  /  CÓDIGO  /  FUTURO</text>
+    <rect x="410" y="244" width="180" height="2" fill="#a855f7" opacity="0.8">
+      <animate attributeName="width" values="40;180;40" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="480;410;480" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- cantos -->
+    <g fill="none" stroke="#a855f7" stroke-width="2.5" stroke-linecap="round">
+      <path d="M28 64V30a2 2 0 0 1 2-2h34"/>
+      <path d="M972 64V30a2 2 0 0 0-2-2h-34"/>
+      <path d="M28 256v34a2 2 0 0 0 2 2h34"/>
+      <path d="M972 256v34a2 2 0 0 1-2 2h-34"/>
+    </g>
+
+    <!-- status -->
+    <circle cx="62" cy="50" r="5" fill="#a855f7">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="78" y="55" font-family="'Courier New', Courier, monospace" font-size="14" letter-spacing="3" fill="#e9d5ff">SYS://ONLINE</text>
+    <text x="938" y="55" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="14" letter-spacing="3" fill="#9d7bd8">SALVADOR · BA</text>
+    <text x="500" y="288" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="13" letter-spacing="4" fill="#7c5bb5">github.com/Szmyskup</text>
+  </g>
+
+  <rect x="1" y="1" width="998" height="318" rx="21" fill="none" stroke="url(#edge)" stroke-width="2"/>
+</svg>
