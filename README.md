@@ -17,25 +17,3 @@ Initializing system...
 ✔ Projects loaded (Myskup Portfolio)
 
 STATUS: ONLINE 🚀
----
-
-### Opção 3: Painel Estilizado em Tabela (Efeito Card)
-
-Se quiseres criar uma caixa com contorno e fundo diferenciado:
-
-```markdown
-### 👤 About Me
-
-<table>
-  <tr>
-    <td>
-      <h4>👋 Olá! Sou o Marcos Andrey</h4>
-      <p>Desenvolvedor Web e Consultor Digital focado em entregar experiências visuais impactantes e de alta performance.</p>
-      <ul>
-        <li><b>Localização:</b> Salvador / Bahia</li>
-        <li><b>Especialidade:</b> Sites responsivos, Landing Pages e Consultoria</li>
-        <li><b>Hobbies:</b> Gaming, Setups e RPG</li>
-      </ul>
-    </td>
-  </tr>
-</table>
