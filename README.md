@@ -22,6 +22,27 @@
 - ⚡ **Services:** Web Design, System Optimization, and Digital Consulting.
 - 🎮 **Passions:** Gaming, Tech Setups & RPG Systems.
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Szmyskup&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szmyskup&layout=compact&theme=dracula&hide_border=false"/>
+
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szmyskup&theme=dracula" alt="GitHub Streak" />
+</div>
+
+### 🎨 Custom Setup / Aesthetic
+
+<div align="center">
+  <sub><i>"Building sleek code & high-performance digital experiences."</i></sub>
+</div>
+
 ---
 
 ### 🌐 Featured Project | Myskup Portfolio
