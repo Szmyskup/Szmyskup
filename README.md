@@ -1,61 +1,102 @@
----
-
-### 🌐 Featured Project | Myskup Portfolio
-
 <div align="center">
 
-  <h3>✨ Myskup — Web Designer & Developer Portfolio ✨</h3>
-  <p>Meu portfólio oficial apresentando soluções web modernas, landing pages e projetos digitais.</p>
+<img src="./assets/banner.svg" alt="Szmyskup" width="100%" />
 
-  <p>
-    <a href="https://myskup.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Demo-myskup.netlify.app-purple?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
-    </a>
-  </p>
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-7c3aed?style=for-the-badge&labelColor=000000" alt="status" />
+<img src="https://img.shields.io/badge/BASE-SALVADOR%20·%20BA-ffffff?style=for-the-badge&labelColor=000000" alt="base" />
+<img src="https://img.shields.io/badge/DISPON%C3%8DVEL-PARA%20PROJETOS-a855f7?style=for-the-badge&labelColor=000000" alt="disponível" />
 
 </div>
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h4>🚀 Destaques do Projeto:</h4>
-      <ul>
-        <li><b>Design Moderno & Responsivo:</b> Otimizado para desktop e dispositivos móveis.</li>
-        <li><b>Foco em Conversão:</b> UI/UX voltada para destacar serviços e projetos comerciais.</li>
-        <li><b>Performance:</b> Carregamento ágil e código limpo.</li>
-      </ul>
-    </td>
-    <td width="50%" align="center">
-      <h4>🛠️ Tecnologias Utilizadas:</h4>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-      </p>
-    </td>
-  </tr>
-</table>
+<br/>
 
----
+<img src="./assets/sec-sobre.svg" alt="01 Sobre" width="100%" />
 
 <div align="center">
 
-  <!-- Banner Header Cyberpunk -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=MARCOS%20ANDREY&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=WEB%20DEVELOPER%20%7C%20DIGITAL%20CONSULTANT&descAlignY=62&descScale=18" width="100%" alt="Header Banner" />
+<img src="./assets/terminal.svg" alt="terminal" width="100%" />
 
 </div>
 
-### 💻 MARCOS_SYSTEM v2.0
+<br/>
 
-```text
-Initializing system...
-[████████████████████████████████] 100%
+<img src="./assets/sec-tech.svg" alt="02 Tecnologias" width="100%" />
 
-✔ Web Developer detected
-✔ UI/UX & High-Performance Sites enabled
-✔ Code engine activated
-✔ Projects loaded (Myskup Portfolio)
+<div align="center">
 
-STATUS: ONLINE 🚀
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=a855f7" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=a855f7" alt="CSS3" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=a855f7" alt="JavaScript" />
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=a855f7" alt="Git" />
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=a855f7" alt="GitHub" />
+<img src="https://img.shields.io/badge/NETLIFY-000000?style=for-the-badge&logo=netlify&logoColor=a855f7" alt="Netlify" />
+<img src="https://img.shields.io/badge/VS%20CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=a855f7" alt="VS Code" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DESIGN-RESPONSIVO-7c3aed?style=flat-square&labelColor=000000" alt="Design responsivo" />
+<img src="https://img.shields.io/badge/GLASSMORPHISM-7c3aed?style=flat-square&labelColor=000000" alt="Glassmorphism" />
+<img src="https://img.shields.io/badge/UI%20%2F%20UX-7c3aed?style=flat-square&labelColor=000000" alt="UI UX" />
+<img src="https://img.shields.io/badge/ALTA%20PERFORMANCE-7c3aed?style=flat-square&labelColor=000000" alt="Alta performance" />
+<img src="https://img.shields.io/badge/CONVERS%C3%83O-7c3aed?style=flat-square&labelColor=000000" alt="Conversão" />
+
+</div>
+
+<br/>
+
+<img src="./assets/sec-projeto.svg" alt="03 Projeto" width="100%" />
+
+<div align="center">
+
+<a href="https://myskup.netlify.app" target="_blank">
+  <img src="./assets/projeto.svg" alt="MysKup · myskup.netlify.app" width="100%" />
+</a>
+
+<br/>
+
+<a href="https://myskup.netlify.app">
+  <img src="https://img.shields.io/badge/ABRIR%20PORTF%C3%93LIO-myskup.netlify.app-7c3aed?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000" alt="Abrir portfólio" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="./assets/sec-stats.svg" alt="04 Estatísticas" width="100%" />
+
+<div align="center">
+
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Szmyskup&show_icons=true&hide_border=false&border_radius=16&card_width=400&custom_title=Stats%20de%20Szmyskup&bg_color=07020f&border_color=3b1d6e&title_color=c084fc&text_color=ffffff&icon_color=a855f7&ring_color=a855f7" alt="GitHub stats" />
+&nbsp;
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szmyskup&layout=compact&hide_border=false&border_radius=16&card_width=400&langs_count=6&custom_title=Linguagens&bg_color=07020f&border_color=3b1d6e&title_color=c084fc&text_color=ffffff" alt="Top linguagens" />
+
+</div>
+
+<br/>
+
+<img src="./assets/sec-contato.svg" alt="05 Contato" width="100%" />
+
+<div align="center">
+
+<a href="https://github.com/Szmyskup">
+  <img src="https://img.shields.io/badge/GITHUB-Szmyskup-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=7c3aed" alt="GitHub" />
+</a>
+<a href="https://instagram.com/szmyskup">
+  <img src="https://img.shields.io/badge/INSTAGRAM-@szmyskup-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=7c3aed" alt="Instagram" />
+</a>
+<a href="https://wa.me/5571992511420">
+  <img src="https://img.shields.io/badge/WHATSAPP-(71)%2099251--1420-000000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=7c3aed" alt="WhatsApp" />
+</a>
+<a href="https://myskup.netlify.app">
+  <img src="https://img.shields.io/badge/SITE-myskup.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=white&labelColor=7c3aed" alt="Site" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+<img src="./assets/footer.svg" alt="Szmyskup" width="100%" />
